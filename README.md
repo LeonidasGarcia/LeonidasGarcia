@@ -1,3 +1,5 @@
+![Tame Impala - Currents](https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Tame_Impala_-_Currents.png/800px-Tame_Impala_-_Currents.png)
+
 # 👋 Hi, I'm Leonidas García
 
 ## 💻 Frontend Developer & UX/UI Designer
