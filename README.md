@@ -1,4 +1,4 @@
-<img src="https://payload.cargocollective.com/1/4/158872/9666476/currents-gatefold-outside_1340_c.jpg" width="100%">
+<img src="https://payload.cargocollective.com/1/4/158872/9666476/currents-gatefold-outside_1340_c.jpg" width="100%" height="260" style="object-fit: cover;">
 
 <h1 align="center">Hola, mi nombre es Leonidas Garcia</h1>
 <h3 align="center">Frontend Developer, UX/UI Designer & Student</h3>
