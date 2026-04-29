@@ -41,14 +41,10 @@ Me especializo en <strong>Frontend Development</strong>; principalmente en el <s
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
 </p>
 
----
-
 ## 📫 Contactos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonidasgarcialescano)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.garcia.dev.ts@gmail.com)
-
----
 
 ## 🐙 Estadisticas de GitHub
 
