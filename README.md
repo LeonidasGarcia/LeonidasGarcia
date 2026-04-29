@@ -43,14 +43,14 @@ Me especializo en <strong>Frontend Development</strong>; principalmente en el <s
 
 ---
 
-### 📫 Contactos
+## 📫 Contactos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonidasgarcialescano)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.garcia.dev.ts@gmail.com)
 
 ---
 
-### 🐙 Estadisticas de GitHub
+## 🐙 Estadisticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeonidasGarcia&show_icons=true&theme=radical" alt="GitHub Stats">
