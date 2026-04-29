@@ -4,7 +4,7 @@
 <h3 align="center">Desarrollador Frontend, Diseñador UX/UI, Estudiante y amante de la programación</h3>
 
 <p align="center">
-Me especializo en el **Frontend Development**; principalmente en el **diseño de interfaces (UX/UI)** y la **programación de toda la lógica interna** de los mismos. Soy un programador, sin embargo, por lo que cualquier tema que incluya **algoritmos**, **estructuras de datos**, **arquitecturas de software** y relacionados llaman poderosamente mi atención.
+Me especializo en el Frontend Development; principalmente en el diseño de interfaces (UX/UI) y la programación de toda la lógica interna de los mismos. Soy un programador, por lo que cualquier tema que incluya algoritmos, estructuras de datos, arquitecturas de software y relacionados llaman poderosamente mi atención.
 </p>
 
 ## 🛠️ Tecnologias y Herramientas
