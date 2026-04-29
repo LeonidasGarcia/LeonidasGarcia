@@ -41,9 +41,7 @@ Me especializo en <strong>Frontend Development</strong>; principalmente en el <s
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
 </p>
 
----
-
-### 📫 Contactos
+## 📫 Contactos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonidasgarcialescano">
@@ -54,9 +52,7 @@ Me especializo en <strong>Frontend Development</strong>; principalmente en el <s
   </a>
 </p>
 
----
-
-### 🐙 Estadisticas de GitHub
+## 🐙 Estadisticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeonidasGarcia&show_icons=true&theme=radical" alt="GitHub Stats">
