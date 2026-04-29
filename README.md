@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://payload.cargocollective.com/1/4/158872/9666476/currents-gatefold-outside_1340_c.jpg" width="480" height="280" style="object-fit: cover; border-radius: 16px;">
+  <img src="https://payload.cargocollective.com/1/4/158872/9666476/currents-gatefold-outside_1340_c.jpg" width="480" height="240" style="object-fit: cover; border-radius: 16px;">
 </p>
 
 <h1 align="center">Hola, mi nombre es Leonidas Garcia</h1>
