@@ -68,4 +68,4 @@ Me especializo en <strong>Frontend Development</strong>; principalmente en el <s
   </a>
 </p>
 
-<p align="center"><img src="https://cdn.wikibound.info/thumb/f/fa/Lucas_M3_Sprite_Upscaled.png/140px-Lucas_M3_Sprite_Upscaled.png" width="24"><img src="https://cdn.wikibound.info/thumb/6/69/Kumatora_M3_Sprite_Upscaled.png/140px-Kumatora_M3_Sprite_Upscaled.png" width="24"><img src="https://cdn.wikibound.info/thumb/2/2e/Duster_M3_Sprite_Upscaled.png/150px-Duster_M3_Sprite_Upscaled.png" width="24"><img src="https://cdn.wikibound.info/thumb/c/c1/Boney_M3_Sprite_Upscaled.png/140px-Boney_M3_Sprite_Upscaled.png" width="24"></p>
+<p align="center"><img src="https://cdn.wikibound.info/thumb/f/fa/Lucas_M3_Sprite_Upscaled.png/140px-Lucas_M3_Sprite_Upscaled.png" width="32"><img src="https://cdn.wikibound.info/thumb/6/69/Kumatora_M3_Sprite_Upscaled.png/140px-Kumatora_M3_Sprite_Upscaled.png" width="32"><img src="https://cdn.wikibound.info/thumb/2/2e/Duster_M3_Sprite_Upscaled.png/150px-Duster_M3_Sprite_Upscaled.png" width="32"><img src="https://cdn.wikibound.info/thumb/c/c1/Boney_M3_Sprite_Upscaled.png/140px-Boney_M3_Sprite_Upscaled.png" width="32"></p>
