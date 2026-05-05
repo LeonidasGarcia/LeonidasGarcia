@@ -57,12 +57,6 @@ Me especializo en <strong>Frontend Development</strong>; principalmente en el <s
 ## 🐙 Estadisticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonidasGarcia&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidasGarcia&layout=compact&theme=radical" alt="Top Langs">
-</p>
-<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=LeonidasGarcia&theme=radical" alt="GitHub Streak">
   </a>
