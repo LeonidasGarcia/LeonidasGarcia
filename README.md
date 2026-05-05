@@ -9,7 +9,7 @@
 Me especializo en <strong>Frontend Development</strong>; principalmente en el <strong>diseño de interfaces (UX/UI)</strong> y la <strong>programación de toda la lógica interna</strong> de los mismos. Soy un programador, por lo que cualquier tema que incluya <strong>algoritmos</strong>, <strong>estructuras de datos</strong>, <strong>arquitecturas de software</strong> y relacionados llaman poderosamente mi atención.
 </p>
 
-## 🛠️ Tecnologias y Herramientas
+## Tecnologias y Herramientas
 
 <p align="center"><strong>Frontend</strong></p>
 <p align="center">
@@ -43,7 +43,7 @@ Me especializo en <strong>Frontend Development</strong>; principalmente en el <s
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
 </p>
 
-## 📫 Contactos
+## Contactos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonidasgarcialescano">
@@ -54,7 +54,7 @@ Me especializo en <strong>Frontend Development</strong>; principalmente en el <s
   </a>
 </p>
 
-## 🐙 Estadisticas de GitHub
+## Estadisticas de GitHub
 
 <p align="center">
   <a href="https://git.io/streak-stats">
